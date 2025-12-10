@@ -1,0 +1,4 @@
+- pkg:pypi/azure-mgmt-azurestack@0.1.0
+- pkg:pypi/azure-mgmt-azurestack@1.0.0
+- pkg:pypi/azure-mgmt-azurestack@1.0.0b1
+- pkg:pypi/azure-mgmt-azurestack@2.0.0b1

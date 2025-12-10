@@ -1,0 +1,5 @@
+- pkg:pypi/azure-mgmt-datashare@0.1.0rc1
+- pkg:pypi/azure-mgmt-datashare@0.2.0
+- pkg:pypi/azure-mgmt-datashare@1.0.0
+- pkg:pypi/azure-mgmt-datashare@1.0.0b1
+- pkg:pypi/azure-mgmt-datashare@1.1.0b1
