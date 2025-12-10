@@ -1,0 +1,4 @@
+- pkg:pypi/celery-docker-tools@0.0.2
+- pkg:pypi/celery-docker-tools@0.0.3
+- pkg:pypi/celery-docker-tools@0.0.4
+- pkg:pypi/celery-docker-tools@0.0.5
