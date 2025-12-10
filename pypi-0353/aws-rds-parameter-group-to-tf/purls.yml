@@ -1,0 +1,4 @@
+- pkg:pypi/aws-rds-parameter-group-to-tf@1.1
+- pkg:pypi/aws-rds-parameter-group-to-tf@1.1.1
+- pkg:pypi/aws-rds-parameter-group-to-tf@1.2.1
+- pkg:pypi/aws-rds-parameter-group-to-tf@1.3.1
