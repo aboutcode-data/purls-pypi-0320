@@ -1,0 +1,5 @@
+- pkg:pypi/airflow-yeedu-operator@1.0.10
+- pkg:pypi/airflow-yeedu-operator@1.0.12
+- pkg:pypi/airflow-yeedu-operator@2.7.0
+- pkg:pypi/airflow-yeedu-operator@2.7.0.post1
+- pkg:pypi/airflow-yeedu-operator@2.9.0rc1

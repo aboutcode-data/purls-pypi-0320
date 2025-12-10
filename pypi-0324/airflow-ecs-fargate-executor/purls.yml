@@ -1,0 +1,5 @@
+- pkg:pypi/airflow-ecs-fargate-executor@0.10
+- pkg:pypi/airflow-ecs-fargate-executor@0.11
+- pkg:pypi/airflow-ecs-fargate-executor@0.12
+- pkg:pypi/airflow-ecs-fargate-executor@0.7
+- pkg:pypi/airflow-ecs-fargate-executor@0.9
