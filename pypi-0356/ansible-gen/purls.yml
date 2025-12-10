@@ -1,0 +1,11 @@
+- pkg:pypi/ansible-gen@0.2.0
+- pkg:pypi/ansible-gen@0.3.0
+- pkg:pypi/ansible-gen@0.3.1
+- pkg:pypi/ansible-gen@0.3.2
+- pkg:pypi/ansible-gen@0.3.3
+- pkg:pypi/ansible-gen@0.5.0
+- pkg:pypi/ansible-gen@0.5.1
+- pkg:pypi/ansible-gen@0.5.2
+- pkg:pypi/ansible-gen@0.6.0
+- pkg:pypi/ansible-gen@0.6.1
+- pkg:pypi/ansible-gen@1.0.0

@@ -1,0 +1,3 @@
+- pkg:pypi/ansible-library@1.0
+- pkg:pypi/ansible-library@1.2
+- pkg:pypi/ansible-library@1.2.1
