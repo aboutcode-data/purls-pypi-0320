@@ -1,0 +1,9 @@
+- pkg:pypi/apache-airflow-backport-providers-cncf-kubernetes@2020.10.29
+- pkg:pypi/apache-airflow-backport-providers-cncf-kubernetes@2020.10.29rc1
+- pkg:pypi/apache-airflow-backport-providers-cncf-kubernetes@2020.10.5rc1
+- pkg:pypi/apache-airflow-backport-providers-cncf-kubernetes@2020.11.23
+- pkg:pypi/apache-airflow-backport-providers-cncf-kubernetes@2020.11.23rc1
+- pkg:pypi/apache-airflow-backport-providers-cncf-kubernetes@2021.2.5
+- pkg:pypi/apache-airflow-backport-providers-cncf-kubernetes@2021.2.5rc1
+- pkg:pypi/apache-airflow-backport-providers-cncf-kubernetes@2021.3.3
+- pkg:pypi/apache-airflow-backport-providers-cncf-kubernetes@2021.3.3rc1
