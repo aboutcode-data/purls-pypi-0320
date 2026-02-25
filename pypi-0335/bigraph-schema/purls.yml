@@ -57,3 +57,7 @@
 - pkg:pypi/bigraph-schema@0.0.77
 - pkg:pypi/bigraph-schema@0.0.8
 - pkg:pypi/bigraph-schema@0.0.9
+- pkg:pypi/bigraph-schema@1.0.0
+- pkg:pypi/bigraph-schema@1.0.1
+- pkg:pypi/bigraph-schema@1.0.2
+- pkg:pypi/bigraph-schema@1.0.3

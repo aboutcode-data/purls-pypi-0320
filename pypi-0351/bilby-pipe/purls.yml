@@ -50,3 +50,4 @@
 - pkg:pypi/bilby-pipe@1.6.0
 - pkg:pypi/bilby-pipe@1.6.0rc1
 - pkg:pypi/bilby-pipe@1.7.0
+- pkg:pypi/bilby-pipe@1.8.0
