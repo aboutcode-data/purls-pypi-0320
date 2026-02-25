@@ -22,3 +22,4 @@
 - pkg:pypi/cdktf-cdktf-provider-dns@8.0.2
 - pkg:pypi/cdktf-cdktf-provider-dns@8.0.3
 - pkg:pypi/cdktf-cdktf-provider-dns@9.0.0
+- pkg:pypi/cdktf-cdktf-provider-dns@9.0.1

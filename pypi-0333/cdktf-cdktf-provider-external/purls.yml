@@ -724,6 +724,7 @@
 - pkg:pypi/cdktf-cdktf-provider-external@10.0.2
 - pkg:pypi/cdktf-cdktf-provider-external@10.0.3
 - pkg:pypi/cdktf-cdktf-provider-external@11.0.0
+- pkg:pypi/cdktf-cdktf-provider-external@11.0.1
 - pkg:pypi/cdktf-cdktf-provider-external@2.0.0
 - pkg:pypi/cdktf-cdktf-provider-external@2.0.1
 - pkg:pypi/cdktf-cdktf-provider-external@2.0.10

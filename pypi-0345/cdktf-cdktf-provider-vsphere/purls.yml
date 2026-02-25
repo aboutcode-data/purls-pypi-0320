@@ -12,6 +12,7 @@
 - pkg:pypi/cdktf-cdktf-provider-vsphere@11.1.1
 - pkg:pypi/cdktf-cdktf-provider-vsphere@11.1.2
 - pkg:pypi/cdktf-cdktf-provider-vsphere@11.2.0
+- pkg:pypi/cdktf-cdktf-provider-vsphere@11.2.1
 - pkg:pypi/cdktf-cdktf-provider-vsphere@2.0.0
 - pkg:pypi/cdktf-cdktf-provider-vsphere@3.0.0
 - pkg:pypi/cdktf-cdktf-provider-vsphere@3.0.1
