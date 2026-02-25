@@ -76,5 +76,11 @@
 - pkg:pypi/airbyte-source-sftp-bulk@1.8.7.dev202511041204
 - pkg:pypi/airbyte-source-sftp-bulk@1.8.8
 - pkg:pypi/airbyte-source-sftp-bulk@1.8.9
+- pkg:pypi/airbyte-source-sftp-bulk@1.9.0
 - pkg:pypi/airbyte-source-sftp-bulk@1.9.0.dev202511201123
 - pkg:pypi/airbyte-source-sftp-bulk@1.9.0.dev202512021352
+- pkg:pypi/airbyte-source-sftp-bulk@1.9.0.dev202602191328
+- pkg:pypi/airbyte-source-sftp-bulk@1.9.0rc1
+- pkg:pypi/airbyte-source-sftp-bulk@1.9.0rc1.dev202512251240
+- pkg:pypi/airbyte-source-sftp-bulk@1.9.0rc1.dev202512301531
+- pkg:pypi/airbyte-source-sftp-bulk@1.9.0rc2
