@@ -1,0 +1,5 @@
+- pkg:pypi/cryptorandom@0.1
+- pkg:pypi/cryptorandom@0.2
+- pkg:pypi/cryptorandom@0.3
+- pkg:pypi/cryptorandom@0.3rc1
+- pkg:pypi/cryptorandom@0.4
