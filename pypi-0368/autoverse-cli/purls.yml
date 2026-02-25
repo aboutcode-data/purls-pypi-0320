@@ -67,7 +67,17 @@
 - pkg:pypi/autoverse-cli@0.26.0
 - pkg:pypi/autoverse-cli@0.26.1
 - pkg:pypi/autoverse-cli@0.28.0
+- pkg:pypi/autoverse-cli@0.28.1
+- pkg:pypi/autoverse-cli@0.28.2
+- pkg:pypi/autoverse-cli@0.28.3
+- pkg:pypi/autoverse-cli@0.29.0
+- pkg:pypi/autoverse-cli@0.29.1.dev408
+- pkg:pypi/autoverse-cli@0.29.1.dev409
+- pkg:pypi/autoverse-cli@0.29.1.dev410
 - pkg:pypi/autoverse-cli@0.3.0
+- pkg:pypi/autoverse-cli@0.30.0
+- pkg:pypi/autoverse-cli@0.31.0
+- pkg:pypi/autoverse-cli@0.32.0
 - pkg:pypi/autoverse-cli@0.4.0
 - pkg:pypi/autoverse-cli@0.4.1
 - pkg:pypi/autoverse-cli@0.5.0

@@ -2,4 +2,6 @@
 - pkg:pypi/automerge@0.1.1
 - pkg:pypi/automerge@0.1.2
 - pkg:pypi/automerge@0.2.0.dev1
+- pkg:pypi/automerge@0.2.0.dev2
+- pkg:pypi/automerge@0.2.0.dev3
 - pkg:pypi/automerge@1.0.0rc1
