@@ -398,6 +398,8 @@
 - pkg:pypi/bowtie-json-schema@2025.11.3
 - pkg:pypi/bowtie-json-schema@2025.11.4
 - pkg:pypi/bowtie-json-schema@2025.12.1
+- pkg:pypi/bowtie-json-schema@2025.12.2
+- pkg:pypi/bowtie-json-schema@2025.12.3
 - pkg:pypi/bowtie-json-schema@2025.2.1
 - pkg:pypi/bowtie-json-schema@2025.2.2
 - pkg:pypi/bowtie-json-schema@2025.2.3
@@ -411,3 +413,8 @@
 - pkg:pypi/bowtie-json-schema@2025.5.1
 - pkg:pypi/bowtie-json-schema@2025.7.2
 - pkg:pypi/bowtie-json-schema@2025.8.1
+- pkg:pypi/bowtie-json-schema@2026.1.1
+- pkg:pypi/bowtie-json-schema@2026.2.1
+- pkg:pypi/bowtie-json-schema@2026.2.2
+- pkg:pypi/bowtie-json-schema@2026.2.3
+- pkg:pypi/bowtie-json-schema@2026.2.4
