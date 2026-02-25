@@ -39,3 +39,5 @@
 - pkg:pypi/auditwheel@6.4.1
 - pkg:pypi/auditwheel@6.4.2
 - pkg:pypi/auditwheel@6.5.0
+- pkg:pypi/auditwheel@6.5.1
+- pkg:pypi/auditwheel@6.6.0
