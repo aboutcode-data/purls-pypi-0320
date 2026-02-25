@@ -38,6 +38,7 @@
 - pkg:pypi/aiovantage@0.22.3
 - pkg:pypi/aiovantage@0.22.4
 - pkg:pypi/aiovantage@0.22.5
+- pkg:pypi/aiovantage@0.22.6
 - pkg:pypi/aiovantage@0.3.0
 - pkg:pypi/aiovantage@0.4.0
 - pkg:pypi/aiovantage@0.5.0
