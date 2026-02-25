@@ -1,3 +1,5 @@
 - pkg:pypi/anaconda-client@1.1.1
 - pkg:pypi/anaconda-client@1.13.0
+- pkg:pypi/anaconda-client@1.14.0
+- pkg:pypi/anaconda-client@1.14.1
 - pkg:pypi/anaconda-client@1.2.2

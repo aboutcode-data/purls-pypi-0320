@@ -83,6 +83,10 @@
 - pkg:pypi/amulet-core@1.9.30
 - pkg:pypi/amulet-core@1.9.31
 - pkg:pypi/amulet-core@1.9.32
+- pkg:pypi/amulet-core@1.9.33
+- pkg:pypi/amulet-core@1.9.34
+- pkg:pypi/amulet-core@1.9.35
+- pkg:pypi/amulet-core@1.9.36
 - pkg:pypi/amulet-core@1.9.4
 - pkg:pypi/amulet-core@1.9.5
 - pkg:pypi/amulet-core@1.9.6
