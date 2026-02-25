@@ -8,6 +8,7 @@
 - pkg:pypi/big@0.12.5
 - pkg:pypi/big@0.12.7
 - pkg:pypi/big@0.12.8
+- pkg:pypi/big@0.13
 - pkg:pypi/big@0.5
 - pkg:pypi/big@0.5.1
 - pkg:pypi/big@0.5.2
