@@ -43,3 +43,4 @@
 - pkg:pypi/ansible-dev-tools@25.8.2
 - pkg:pypi/ansible-dev-tools@25.8.3
 - pkg:pypi/ansible-dev-tools@25.9.0
+- pkg:pypi/ansible-dev-tools@26.1.0
