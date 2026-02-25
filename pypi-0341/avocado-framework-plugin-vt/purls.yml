@@ -1,6 +1,7 @@
 - pkg:pypi/avocado-framework-plugin-vt@103.0
 - pkg:pypi/avocado-framework-plugin-vt@104.0
 - pkg:pypi/avocado-framework-plugin-vt@109.0
+- pkg:pypi/avocado-framework-plugin-vt@113.0
 - pkg:pypi/avocado-framework-plugin-vt@57.4
 - pkg:pypi/avocado-framework-plugin-vt@76.0
 - pkg:pypi/avocado-framework-plugin-vt@77.0

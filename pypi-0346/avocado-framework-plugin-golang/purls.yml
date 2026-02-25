@@ -12,6 +12,7 @@
 - pkg:pypi/avocado-framework-plugin-golang@110.0
 - pkg:pypi/avocado-framework-plugin-golang@111.0
 - pkg:pypi/avocado-framework-plugin-golang@112.0
+- pkg:pypi/avocado-framework-plugin-golang@113.0
 - pkg:pypi/avocado-framework-plugin-golang@55.0
 - pkg:pypi/avocado-framework-plugin-golang@56.0
 - pkg:pypi/avocado-framework-plugin-golang@57.0

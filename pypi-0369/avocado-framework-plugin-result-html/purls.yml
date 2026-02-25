@@ -12,6 +12,7 @@
 - pkg:pypi/avocado-framework-plugin-result-html@110.0
 - pkg:pypi/avocado-framework-plugin-result-html@111.0
 - pkg:pypi/avocado-framework-plugin-result-html@112.0
+- pkg:pypi/avocado-framework-plugin-result-html@113.0
 - pkg:pypi/avocado-framework-plugin-result-html@47.0
 - pkg:pypi/avocado-framework-plugin-result-html@48.0
 - pkg:pypi/avocado-framework-plugin-result-html@49.0
