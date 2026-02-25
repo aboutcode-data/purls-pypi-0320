@@ -45,6 +45,8 @@
 - pkg:pypi/agentservice@0.0.140
 - pkg:pypi/agentservice@0.0.141
 - pkg:pypi/agentservice@0.0.142
+- pkg:pypi/agentservice@0.0.143
+- pkg:pypi/agentservice@0.0.144
 - pkg:pypi/agentservice@0.0.15
 - pkg:pypi/agentservice@0.0.16
 - pkg:pypi/agentservice@0.0.17
