@@ -24,3 +24,5 @@
 - pkg:pypi/bnpm@0.6.0
 - pkg:pypi/bnpm@0.6.1
 - pkg:pypi/bnpm@0.6.5
+- pkg:pypi/bnpm@0.6.6
+- pkg:pypi/bnpm@0.7.0

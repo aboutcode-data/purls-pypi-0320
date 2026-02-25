@@ -1,3 +1,5 @@
 - pkg:pypi/bodhi-sdk@0.1.0
 - pkg:pypi/bodhi-sdk@1.0.0
 - pkg:pypi/bodhi-sdk@1.0.0.post1
+- pkg:pypi/bodhi-sdk@1.1.0
+- pkg:pypi/bodhi-sdk@1.2.0

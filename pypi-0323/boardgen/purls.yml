@@ -3,6 +3,7 @@
 - pkg:pypi/boardgen@0.10.1
 - pkg:pypi/boardgen@0.11.0
 - pkg:pypi/boardgen@0.11.1
+- pkg:pypi/boardgen@0.12.0
 - pkg:pypi/boardgen@0.2.0
 - pkg:pypi/boardgen@0.2.1
 - pkg:pypi/boardgen@0.3.0
