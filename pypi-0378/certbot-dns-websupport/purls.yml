@@ -2,3 +2,4 @@
 - pkg:pypi/certbot-dns-websupport@2.0.0
 - pkg:pypi/certbot-dns-websupport@2.0.1
 - pkg:pypi/certbot-dns-websupport@3.0.0
+- pkg:pypi/certbot-dns-websupport@5.0.0
