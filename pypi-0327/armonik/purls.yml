@@ -164,6 +164,8 @@
 - pkg:pypi/armonik@3.27.0
 - pkg:pypi/armonik@3.28.0
 - pkg:pypi/armonik@3.28.1
+- pkg:pypi/armonik@3.28.2
+- pkg:pypi/armonik@3.28.3
 - pkg:pypi/armonik@3.3.0
 - pkg:pypi/armonik@3.4.0
 - pkg:pypi/armonik@3.5.0
