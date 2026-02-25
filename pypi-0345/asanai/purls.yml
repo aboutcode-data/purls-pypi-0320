@@ -104,9 +104,16 @@
 - pkg:pypi/asanai@36
 - pkg:pypi/asanai@37
 - pkg:pypi/asanai@38
+- pkg:pypi/asanai@383
+- pkg:pypi/asanai@384
+- pkg:pypi/asanai@386
+- pkg:pypi/asanai@388
 - pkg:pypi/asanai@39
+- pkg:pypi/asanai@392
 - pkg:pypi/asanai@41
 - pkg:pypi/asanai@42
+- pkg:pypi/asanai@425
+- pkg:pypi/asanai@426
 - pkg:pypi/asanai@43
 - pkg:pypi/asanai@44
 - pkg:pypi/asanai@48

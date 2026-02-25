@@ -21,6 +21,11 @@
 - pkg:pypi/asf-search@10.2.1
 - pkg:pypi/asf-search@10.3.0
 - pkg:pypi/asf-search@11.0.0
+- pkg:pypi/asf-search@11.0.1
+- pkg:pypi/asf-search@11.0.2
+- pkg:pypi/asf-search@11.0.3
+- pkg:pypi/asf-search@12.0.0
+- pkg:pypi/asf-search@12.0.1
 - pkg:pypi/asf-search@2.0.0
 - pkg:pypi/asf-search@2.0.1
 - pkg:pypi/asf-search@2.0.2
