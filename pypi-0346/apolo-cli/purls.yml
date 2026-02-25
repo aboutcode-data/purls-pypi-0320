@@ -16,6 +16,8 @@
 - pkg:pypi/apolo-cli@25.11.1
 - pkg:pypi/apolo-cli@25.11.2
 - pkg:pypi/apolo-cli@25.12.0
+- pkg:pypi/apolo-cli@25.12.1
+- pkg:pypi/apolo-cli@25.12.2
 - pkg:pypi/apolo-cli@25.4.1
 - pkg:pypi/apolo-cli@25.4.2
 - pkg:pypi/apolo-cli@25.5.0
@@ -27,3 +29,4 @@
 - pkg:pypi/apolo-cli@25.8.1
 - pkg:pypi/apolo-cli@25.9.0
 - pkg:pypi/apolo-cli@25.9.1
+- pkg:pypi/apolo-cli@26.1.0
