@@ -19,6 +19,9 @@
 - pkg:pypi/acceldata-airflow-sdk@2.6.0
 - pkg:pypi/acceldata-airflow-sdk@2.7.0
 - pkg:pypi/acceldata-airflow-sdk@2.7.1
+- pkg:pypi/acceldata-airflow-sdk@26.1.0
+- pkg:pypi/acceldata-airflow-sdk@26.2.0
+- pkg:pypi/acceldata-airflow-sdk@26.2.1
 - pkg:pypi/acceldata-airflow-sdk@3.0.0
 - pkg:pypi/acceldata-airflow-sdk@3.1.0
 - pkg:pypi/acceldata-airflow-sdk@3.10.0
