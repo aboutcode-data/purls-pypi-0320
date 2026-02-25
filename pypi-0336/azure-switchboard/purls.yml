@@ -13,3 +13,10 @@
 - pkg:pypi/azure-switchboard@2025.6.0
 - pkg:pypi/azure-switchboard@2025.8.0
 - pkg:pypi/azure-switchboard@2025.9.0
+- pkg:pypi/azure-switchboard@2026.2.0
+- pkg:pypi/azure-switchboard@2026.2.1
+- pkg:pypi/azure-switchboard@2026.2.2
+- pkg:pypi/azure-switchboard@2026.2.3
+- pkg:pypi/azure-switchboard@2026.2.4
+- pkg:pypi/azure-switchboard@2026.2.6
+- pkg:pypi/azure-switchboard@2026.2.7

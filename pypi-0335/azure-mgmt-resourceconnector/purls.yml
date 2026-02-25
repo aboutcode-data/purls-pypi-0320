@@ -3,3 +3,4 @@
 - pkg:pypi/azure-mgmt-resourceconnector@1.0.0b2
 - pkg:pypi/azure-mgmt-resourceconnector@1.0.0b3
 - pkg:pypi/azure-mgmt-resourceconnector@1.0.0b4
+- pkg:pypi/azure-mgmt-resourceconnector@2.0.0b1
