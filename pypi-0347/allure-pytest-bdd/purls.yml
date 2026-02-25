@@ -15,6 +15,7 @@
 - pkg:pypi/allure-pytest-bdd@2.15.0
 - pkg:pypi/allure-pytest-bdd@2.15.1
 - pkg:pypi/allure-pytest-bdd@2.15.2
+- pkg:pypi/allure-pytest-bdd@2.15.3
 - pkg:pypi/allure-pytest-bdd@2.8.10
 - pkg:pypi/allure-pytest-bdd@2.8.11
 - pkg:pypi/allure-pytest-bdd@2.8.12

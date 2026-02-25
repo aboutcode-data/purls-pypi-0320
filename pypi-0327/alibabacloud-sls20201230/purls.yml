@@ -45,6 +45,11 @@
 - pkg:pypi/alibabacloud-sls20201230@5.0.0
 - pkg:pypi/alibabacloud-sls20201230@5.1.0
 - pkg:pypi/alibabacloud-sls20201230@5.10.0
+- pkg:pypi/alibabacloud-sls20201230@5.11.0
+- pkg:pypi/alibabacloud-sls20201230@5.11.1
+- pkg:pypi/alibabacloud-sls20201230@5.11.2
+- pkg:pypi/alibabacloud-sls20201230@5.12.0
+- pkg:pypi/alibabacloud-sls20201230@5.12.1
 - pkg:pypi/alibabacloud-sls20201230@5.2.0
 - pkg:pypi/alibabacloud-sls20201230@5.2.1
 - pkg:pypi/alibabacloud-sls20201230@5.2.2

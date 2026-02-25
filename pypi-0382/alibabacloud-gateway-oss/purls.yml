@@ -11,6 +11,8 @@
 - pkg:pypi/alibabacloud-gateway-oss@0.0.20
 - pkg:pypi/alibabacloud-gateway-oss@0.0.21
 - pkg:pypi/alibabacloud-gateway-oss@0.0.22
+- pkg:pypi/alibabacloud-gateway-oss@0.0.23
+- pkg:pypi/alibabacloud-gateway-oss@0.0.24
 - pkg:pypi/alibabacloud-gateway-oss@0.0.3
 - pkg:pypi/alibabacloud-gateway-oss@0.0.4
 - pkg:pypi/alibabacloud-gateway-oss@0.0.5
