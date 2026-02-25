@@ -37,3 +37,6 @@
 - pkg:pypi/authzed@1.22.2rc2
 - pkg:pypi/authzed@1.23.0
 - pkg:pypi/authzed@1.24.0
+- pkg:pypi/authzed@1.24.1
+- pkg:pypi/authzed@1.24.2
+- pkg:pypi/authzed@1.24.3
