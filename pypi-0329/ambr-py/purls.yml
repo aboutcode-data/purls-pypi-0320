@@ -15,6 +15,7 @@
 - pkg:pypi/ambr-py@1.8.0
 - pkg:pypi/ambr-py@1.8.1
 - pkg:pypi/ambr-py@1.8.10
+- pkg:pypi/ambr-py@1.8.11
 - pkg:pypi/ambr-py@1.8.2
 - pkg:pypi/ambr-py@1.8.5
 - pkg:pypi/ambr-py@1.8.6

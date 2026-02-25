@@ -12,3 +12,5 @@
 - pkg:pypi/amdirt@1.6.3
 - pkg:pypi/amdirt@1.6.4
 - pkg:pypi/amdirt@1.6.5
+- pkg:pypi/amdirt@1.7.0
+- pkg:pypi/amdirt@1.7.1
