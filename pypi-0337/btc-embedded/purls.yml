@@ -99,3 +99,7 @@
 - pkg:pypi/btc-embedded@25.2.3b1
 - pkg:pypi/btc-embedded@25.2.4
 - pkg:pypi/btc-embedded@25.2.4b1
+- pkg:pypi/btc-embedded@25.3.0
+- pkg:pypi/btc-embedded@25.3.1
+- pkg:pypi/btc-embedded@25.3.2
+- pkg:pypi/btc-embedded@25.3.3b1

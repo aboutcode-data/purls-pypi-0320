@@ -1,3 +1,5 @@
 - pkg:pypi/btrievepython@16.0.67.0
 - pkg:pypi/btrievepython@16.0.70.0
 - pkg:pypi/btrievepython@16.10.30.0b0
+- pkg:pypi/btrievepython@16.10.30.0b1
+- pkg:pypi/btrievepython@16.10.30.0b2
