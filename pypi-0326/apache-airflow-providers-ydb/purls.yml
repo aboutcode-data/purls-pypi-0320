@@ -25,4 +25,9 @@
 - pkg:pypi/apache-airflow-providers-ydb@2.2.3rc1
 - pkg:pypi/apache-airflow-providers-ydb@2.3.0
 - pkg:pypi/apache-airflow-providers-ydb@2.3.0rc1
+- pkg:pypi/apache-airflow-providers-ydb@2.3.1
 - pkg:pypi/apache-airflow-providers-ydb@2.3.1rc1
+- pkg:pypi/apache-airflow-providers-ydb@2.3.2
+- pkg:pypi/apache-airflow-providers-ydb@2.3.2rc1
+- pkg:pypi/apache-airflow-providers-ydb@2.4.0
+- pkg:pypi/apache-airflow-providers-ydb@2.4.0rc1

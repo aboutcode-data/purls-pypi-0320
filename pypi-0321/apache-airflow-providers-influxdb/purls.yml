@@ -15,6 +15,10 @@
 - pkg:pypi/apache-airflow-providers-influxdb@2.1.0rc1
 - pkg:pypi/apache-airflow-providers-influxdb@2.10.0
 - pkg:pypi/apache-airflow-providers-influxdb@2.10.0rc1
+- pkg:pypi/apache-airflow-providers-influxdb@2.10.1
+- pkg:pypi/apache-airflow-providers-influxdb@2.10.1rc1
+- pkg:pypi/apache-airflow-providers-influxdb@2.10.2
+- pkg:pypi/apache-airflow-providers-influxdb@2.10.2rc1
 - pkg:pypi/apache-airflow-providers-influxdb@2.2.0
 - pkg:pypi/apache-airflow-providers-influxdb@2.2.0rc1
 - pkg:pypi/apache-airflow-providers-influxdb@2.2.0rc2
