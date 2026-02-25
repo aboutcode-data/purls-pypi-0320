@@ -9,6 +9,8 @@
 - pkg:pypi/actionlint-py@1.6.27.13
 - pkg:pypi/actionlint-py@1.7.0.14
 - pkg:pypi/actionlint-py@1.7.1.15
+- pkg:pypi/actionlint-py@1.7.10.24
+- pkg:pypi/actionlint-py@1.7.11.24
 - pkg:pypi/actionlint-py@1.7.2.16
 - pkg:pypi/actionlint-py@1.7.3.17
 - pkg:pypi/actionlint-py@1.7.4.18
