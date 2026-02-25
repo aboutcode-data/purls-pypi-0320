@@ -24,3 +24,5 @@
 - pkg:pypi/ccflow@0.6.8
 - pkg:pypi/ccflow@0.6.9
 - pkg:pypi/ccflow@0.7.0
+- pkg:pypi/ccflow@0.8.0
+- pkg:pypi/ccflow@0.8.1
