@@ -22,3 +22,4 @@
 - pkg:pypi/aws-ssm-tools@1.6.0
 - pkg:pypi/aws-ssm-tools@2.0.0a3
 - pkg:pypi/aws-ssm-tools@2.0.1
+- pkg:pypi/aws-ssm-tools@2.1.1

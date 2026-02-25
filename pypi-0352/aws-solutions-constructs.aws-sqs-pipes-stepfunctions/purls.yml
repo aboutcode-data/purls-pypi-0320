@@ -1,3 +1,5 @@
+- pkg:pypi/aws-solutions-constructs.aws-sqs-pipes-stepfunctions@2.100.0
+- pkg:pypi/aws-solutions-constructs.aws-sqs-pipes-stepfunctions@2.100.1
 - pkg:pypi/aws-solutions-constructs.aws-sqs-pipes-stepfunctions@2.73.0
 - pkg:pypi/aws-solutions-constructs.aws-sqs-pipes-stepfunctions@2.74.0
 - pkg:pypi/aws-solutions-constructs.aws-sqs-pipes-stepfunctions@2.75.0
@@ -35,3 +37,6 @@
 - pkg:pypi/aws-solutions-constructs.aws-sqs-pipes-stepfunctions@2.95.0
 - pkg:pypi/aws-solutions-constructs.aws-sqs-pipes-stepfunctions@2.95.1
 - pkg:pypi/aws-solutions-constructs.aws-sqs-pipes-stepfunctions@2.96.0
+- pkg:pypi/aws-solutions-constructs.aws-sqs-pipes-stepfunctions@2.97.0
+- pkg:pypi/aws-solutions-constructs.aws-sqs-pipes-stepfunctions@2.98.0
+- pkg:pypi/aws-solutions-constructs.aws-sqs-pipes-stepfunctions@2.99.0
