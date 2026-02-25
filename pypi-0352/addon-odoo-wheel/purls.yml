@@ -15,3 +15,5 @@
 - pkg:pypi/addon-odoo-wheel@0.3.3
 - pkg:pypi/addon-odoo-wheel@0.3.4
 - pkg:pypi/addon-odoo-wheel@0.4.0
+- pkg:pypi/addon-odoo-wheel@0.4.2
+- pkg:pypi/addon-odoo-wheel@0.4.3
