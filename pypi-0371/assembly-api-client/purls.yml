@@ -1,1 +1,6 @@
 - pkg:pypi/assembly-api-client@0.1.0
+- pkg:pypi/assembly-api-client@1.0.7
+- pkg:pypi/assembly-api-client@1.0.8
+- pkg:pypi/assembly-api-client@1.1.0
+- pkg:pypi/assembly-api-client@1.2.0
+- pkg:pypi/assembly-api-client@1.2.1

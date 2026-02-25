@@ -106,9 +106,11 @@
 - pkg:pypi/ast-grep-cli@0.39.7
 - pkg:pypi/ast-grep-cli@0.39.9
 - pkg:pypi/ast-grep-cli@0.40.0
-- pkg:pypi/ast-grep-cli@0.6.7
-- pkg:pypi/ast-grep-cli@0.7.0
-- pkg:pypi/ast-grep-cli@0.7.1
+- pkg:pypi/ast-grep-cli@0.40.1
+- pkg:pypi/ast-grep-cli@0.40.3
+- pkg:pypi/ast-grep-cli@0.40.4
+- pkg:pypi/ast-grep-cli@0.40.5
+- pkg:pypi/ast-grep-cli@0.41.0
 - pkg:pypi/ast-grep-cli@0.7.2
 - pkg:pypi/ast-grep-cli@0.8.0
 - pkg:pypi/ast-grep-cli@0.9.0
