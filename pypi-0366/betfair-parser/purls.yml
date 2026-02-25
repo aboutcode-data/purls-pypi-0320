@@ -43,6 +43,9 @@
 - pkg:pypi/betfair-parser@0.17.3
 - pkg:pypi/betfair-parser@0.17.4
 - pkg:pypi/betfair-parser@0.18.0
+- pkg:pypi/betfair-parser@0.19
+- pkg:pypi/betfair-parser@0.19.1
+- pkg:pypi/betfair-parser@0.19.2
 - pkg:pypi/betfair-parser@0.2.0
 - pkg:pypi/betfair-parser@0.2.1
 - pkg:pypi/betfair-parser@0.2.2

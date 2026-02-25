@@ -68,5 +68,8 @@
 - pkg:pypi/beetl@1.3.0
 - pkg:pypi/beetl@1.3.1
 - pkg:pypi/beetl@1.3.1rc1
+- pkg:pypi/beetl@1.4.0
 - pkg:pypi/beetl@1.4.0rc1
 - pkg:pypi/beetl@1.4.0rc2
+- pkg:pypi/beetl@1.4.0rc3
+- pkg:pypi/beetl@1.4.0rc4
