@@ -1,6 +1,8 @@
 - pkg:pypi/beancount-cc-importers@0.1.1
 - pkg:pypi/beancount-cc-importers@0.1.11
 - pkg:pypi/beancount-cc-importers@0.1.12
+- pkg:pypi/beancount-cc-importers@0.1.13
+- pkg:pypi/beancount-cc-importers@0.1.14
 - pkg:pypi/beancount-cc-importers@0.1.2
 - pkg:pypi/beancount-cc-importers@0.1.3
 - pkg:pypi/beancount-cc-importers@0.1.4

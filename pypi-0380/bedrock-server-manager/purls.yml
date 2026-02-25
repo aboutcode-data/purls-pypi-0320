@@ -42,5 +42,14 @@
 - pkg:pypi/bedrock-server-manager@3.7.0b2
 - pkg:pypi/bedrock-server-manager@3.7.0b4
 - pkg:pypi/bedrock-server-manager@3.7.0b5
+- pkg:pypi/bedrock-server-manager@3.7.1
 - pkg:pypi/bedrock-server-manager@3.7.1a1
 - pkg:pypi/bedrock-server-manager@3.7.1a2
+- pkg:pypi/bedrock-server-manager@3.7.2
+- pkg:pypi/bedrock-server-manager@3.7.2a1
+- pkg:pypi/bedrock-server-manager@3.7.2a2
+- pkg:pypi/bedrock-server-manager@3.8.0a1
+- pkg:pypi/bedrock-server-manager@3.8.0a2
+- pkg:pypi/bedrock-server-manager@3.8.0b1
+- pkg:pypi/bedrock-server-manager@3.8.0b2
+- pkg:pypi/bedrock-server-manager@3.8.0b3
