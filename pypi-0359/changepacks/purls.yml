@@ -16,7 +16,17 @@
 - pkg:pypi/changepacks@0.1.8
 - pkg:pypi/changepacks@0.1.9
 - pkg:pypi/changepacks@0.2.1
+- pkg:pypi/changepacks@0.2.11
+- pkg:pypi/changepacks@0.2.12
+- pkg:pypi/changepacks@0.2.13
+- pkg:pypi/changepacks@0.2.14
+- pkg:pypi/changepacks@0.2.15
+- pkg:pypi/changepacks@0.2.16
+- pkg:pypi/changepacks@0.2.17
 - pkg:pypi/changepacks@0.2.2
+- pkg:pypi/changepacks@0.2.20
+- pkg:pypi/changepacks@0.2.21
+- pkg:pypi/changepacks@0.2.22
 - pkg:pypi/changepacks@0.2.3
 - pkg:pypi/changepacks@0.2.4
 - pkg:pypi/changepacks@0.2.5

@@ -13,3 +13,5 @@
 - pkg:pypi/cgm-format@0.5.2
 - pkg:pypi/cgm-format@0.6.0
 - pkg:pypi/cgm-format@0.6.1
+- pkg:pypi/cgm-format@0.6.2
+- pkg:pypi/cgm-format@0.7.0
