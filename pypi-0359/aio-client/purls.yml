@@ -1,5 +1,6 @@
 - pkg:pypi/aio-client@1.10.0
 - pkg:pypi/aio-client@1.11.0
+- pkg:pypi/aio-client@1.14.0
 - pkg:pypi/aio-client@1.2.0
 - pkg:pypi/aio-client@1.8.10
 - pkg:pypi/aio-client@1.8.11

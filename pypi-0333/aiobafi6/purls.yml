@@ -1,4 +1,5 @@
 - pkg:pypi/aiobafi6@0.1.0
+- pkg:pypi/aiobafi6@0.10.2
 - pkg:pypi/aiobafi6@0.2.0
 - pkg:pypi/aiobafi6@0.3.0
 - pkg:pypi/aiobafi6@0.4.0
